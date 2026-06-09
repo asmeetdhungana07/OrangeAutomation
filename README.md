@@ -7,10 +7,11 @@ This project automates key OrangeHRM UI workflows using Playwright and JavaScrip
 ### Automated Test Scenarios
 
 1. Valid Login
-2. Invalid Login (3 Negative Scenarios)
-3. Employee Search
-4. Add Employee
-5. Logout
+2. Navigate to DAshboard
+3. Invalid Login (3 Negative Scenarios)
+4. Employee Search
+5. Add Employee
+6. Logout
 
 ## Tech Stack
 
