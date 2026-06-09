@@ -72,5 +72,5 @@ Asmeet Dhungana
 
 ## Screenshot of report
 
-Screenshot 2026-06-09 at 21.04.21
+<img width="1398" height="774" alt="Screenshot 2026-06-09 at 21 04 21" src="https://github.com/user-attachments/assets/6662fcfc-bef8-414a-96f8-d8163c0f5df3" />
 
