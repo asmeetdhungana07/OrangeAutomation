@@ -29,7 +29,7 @@ This project automates key OrangeHRM UI workflows using Playwright and JavaScrip
 Clone repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/asmeetdhungana07/OrangeAutomation.git
 cd orangehrm-playwright
 ```
 
